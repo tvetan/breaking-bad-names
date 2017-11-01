@@ -1,7 +1,7 @@
 {
-  "name": "starwars-names",
+  "name": "breaking-bad-names",
   "version": "0.0.0-semantically-released",
-  "description": "Get random Star Wars names",
+  "description": "Get random Breaking bad names",
   "main": "dist/index.js",
   "scripts": {
     "commit": "git-cz",
@@ -19,21 +19,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kentcdodds/starwars-names.git"
+    "url": "git+https://github.com/tvetan/breaking-bad-names.git"
   },
   "keywords": [
     "random",
-    "star wars"
+    "breaking bad"
   ],
   "files": [
     "dist"
   ],
-  "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
+  "author": "Tsvetan",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/kentcdodds/starwars-names/issues"
-  },
-  "homepage": "https://github.com/kentcdodds/starwars-names#readme",
+ 
+  "homepage": "https://github.com/tvetan/breaking-bad-names#readme",
   "dependencies": {
     "unique-random-array": "1.0.0"
   },
