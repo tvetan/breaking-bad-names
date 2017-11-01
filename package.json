@@ -30,7 +30,6 @@
   ],
   "author": "Tsvetan",
   "license": "MIT",
- 
   "homepage": "https://github.com/tvetan/breaking-bad-names#readme",
   "dependencies": {
     "unique-random-array": "1.0.0"
