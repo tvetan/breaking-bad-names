@@ -1,6 +1,6 @@
 {
-  "name": "breaking-bad-names",
-  "version": "0.0.0-semantically-released",
+  "name": "breaking-bad-names-demo",
+  "version": "1.0.0",
   "description": "Get random Breaking bad names",
   "main": "dist/index.js",
   "scripts": {

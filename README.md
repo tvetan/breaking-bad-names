@@ -1,4 +1,4 @@
-# starwars-names
+# breaking-bad-names
 
 Get random breaking bad character names
 
